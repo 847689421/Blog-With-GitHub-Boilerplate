@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 使用ReverseProxy反向代理Jrebel服务
+slug: my-first-awesome-post
+date: 2020-02-03 18:06
 status: publish
 author: g
 categories: 
