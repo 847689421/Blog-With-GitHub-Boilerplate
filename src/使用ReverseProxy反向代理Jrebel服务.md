@@ -13,7 +13,7 @@ tags:
   - GitHub
 excerpt: 使用ReverseProxy反向代理Jrebel服务
 ---
-
+`参考文章：https://blog.csdn.net/asing1elife/article/details/82696822`
 ## ReverseProxy地址
 
 https://github.com/ilanyu/ReverseProxy/releases/
